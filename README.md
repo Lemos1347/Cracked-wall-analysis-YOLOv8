@@ -4,6 +4,7 @@ O objetivo da atividade é prepara um modelo de detecção de objetos para ident
 ___
 **Exemplo**:
 
+https://github.com/Lemos1347/Cracked-wall-analysis-YOLOv8/assets/99190347/0d677b42-674e-4e08-9d3c-f6a0083b8e31
 ___
 
 ## O Modelo   
